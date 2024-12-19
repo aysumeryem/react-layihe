@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-layihe/static/css/main.5e1b383c.css",
+    "main.js": "/react-layihe/static/js/main.956a3757.js",
+    "index.html": "/react-layihe/index.html",
+    "main.5e1b383c.css.map": "/react-layihe/static/css/main.5e1b383c.css.map",
+    "main.956a3757.js.map": "/react-layihe/static/js/main.956a3757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e1b383c.css",
+    "static/js/main.956a3757.js"
+  ]
+}

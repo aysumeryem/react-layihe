@@ -1,0 +1,60 @@
+.App {
+  display: flex; 
+  padding: 20px;
+}
+/* .movie-details{
+  margin-top: 46%;
+} */
+
+.list-page {
+  padding: 20px;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+  width: 900px;
+  margin-left: 17%;
+}
+
+.list-page h2 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.favorite-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 8px;
+
+}
+
+
+.favorite-item img {
+  width: 100px;
+  height: 150px;
+  border-radius: 4px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.favorite-item h3 {
+  font-size: 1.5em;
+  margin: 0;
+  color: #444;
+}
+
+.movie-details {
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.movie-details:hover {
+  background-color: #0056b3;
+}
